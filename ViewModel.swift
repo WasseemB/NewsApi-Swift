@@ -12,7 +12,7 @@ class ViewModel : ObservableObject {
     @Published public var articles = [Article]()
     
     static func createApi() -> ApiModel<Article,Response> {
-        let newsApi:String = "https://newsapi.org/v2/everything?q=tesla&pageSize=10&apiKey=[APIKEY]"
+        let newsApi:String = "https://newsapi.org/v2/everything?q=tesla&pageSize=10&apiKey=504afa2551f146cbada4dccce50ddae2"
         return ApiModel(api: newsApi)
     }
     
