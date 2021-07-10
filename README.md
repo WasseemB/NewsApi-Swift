@@ -1,2 +1,3 @@
 # NewsApi-Swift
-![Template JPEG](https://imgur.com/a/d31gzVl)
+![Template JPEG](https://i.imgur.com/BmnrBkE.png)
+![Template JPEG](https://i.imgur.com/qKoXEQ3.png)
